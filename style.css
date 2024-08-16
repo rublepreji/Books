@@ -1,0 +1,41 @@
+.nav-head{
+    margin-left: 220px;
+    font-family: "Grey Qo", cursive;
+}
+.nav-right{
+    margin-left: 300px;
+    font-size: medium;
+    font-family: "Teko", sans-serif;
+    padding-top: 8px;
+}
+.nav-left{
+    margin-left:250px;
+    font-size: medium;
+    font-family: "Teko", sans-serif;
+
+}.col-2{
+    padding: 20px;
+    transition: transform .3s;
+    margin: 0 auto;
+}.col-2:hover{
+    transform: scale(1.2);
+}body{
+    font-family: "Roboto Condensed", sans-serif;
+}.banner{
+    padding: 30px;
+    margin-left: 85px;
+}.col-2-fic{
+    font-family: "Roboto Condensed", sans-serif;
+
+}h3{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+}.col-2 a{
+    margin-top: -20;
+    
+}.checked{
+    color: orange;
+    font-size: smaller;
+}.row1{
+    display: flex;
+    justify-content: space-around;
+}
